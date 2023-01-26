@@ -44,3 +44,27 @@
 > “Only one man in a thousand is a leader of men — the other 999 follow women.” - *Isaac Asimov*
 
 
+# Code to Get Latest Twitter Status using PHP.
+
+```
+<?php
+
+function getTwitterStatus($userid){
+$url = "https://api.twitter.com/1/statuses/user_timeline/$userid.xml?count=1&include_rts=1callback=?";
+
+$xml = simplexml_load_file($url) or die("could not connect");
+
+       foreach($xml->status as $status){
+       $text = $status->text;
+       }
+       echo $text;
+ }
+
+// USAGE
+getTwitterStatus("chriscoyier");
+
+?>
+
+```
+
+[Source code](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
