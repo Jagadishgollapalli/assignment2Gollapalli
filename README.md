@@ -35,6 +35,12 @@
 | United states | exciting opportunities to have fun, vibrant cities, innovative gastronomy | 360 Days |
 | Italy | glorious landscapes, italian divine food, vibrant culture| 120 days |
 
+***
 
+## Quotes for life.
+
+> “Never underestimate the power of stupid people in large groups.” - *Dwight D. Eisenhower*
+
+> “Only one man in a thousand is a leader of men — the other 999 follow women.” - *Isaac Asimov*
 
 
