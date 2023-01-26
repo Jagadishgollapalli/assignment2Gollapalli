@@ -44,6 +44,8 @@
 > “Only one man in a thousand is a leader of men — the other 999 follow women.” - *Isaac Asimov*
 
 
+*** 
+
 # Code to Get Latest Twitter Status using PHP.
 
 ```
@@ -67,4 +69,4 @@ getTwitterStatus("chriscoyier");
 
 ```
 
-[Source code](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
+[Source for the above snippet](https://css-tricks.com/snippets/php/get-latest-twitter-status/)
