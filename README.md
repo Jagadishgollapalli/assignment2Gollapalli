@@ -22,3 +22,19 @@
 
 
 [Click here to get the details about me](AboutMe.md)
+
+
+***
+
+# Table for *Contries to visit once in their life time*!
+
+| country | Reasons | Days to spend |
+| --- | --- | ---: |
+| India | Amazing street food, Temples, breathtaking landscapes and rich history | Life time if possible |
+| Thailand | wild nightlife,scrumptious food, winding rivers and canals | 150 Days |
+| United states | exciting opportunities to have fun, vibrant cities, innovative gastronomy | 360 Days |
+| Italy | glorious landscapes, italian divine food, vibrant culture| 120 days |
+
+
+
+
