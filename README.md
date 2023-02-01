@@ -47,7 +47,11 @@
 
 *** 
 
-# Code to Get Latest Twitter Status using PHP.
+# How To Keep Track of Traversed Path in DFS Tree and Graph Traversal
+
+> Often times in Tree and Graph Traversal problems and Dynamic problems we face challenges in printing the optimal path(s) that led us to the answer. In this post we will demystify a robust way to print optimal paths for Binary Trees in a way that we can use this learning in solving various other problems where we are interested in knowing what are the paths that led us to a specific answer.
+
+[Reference link for DFS Tree and Graph Traversal](https://efficientcodeblogwordpresscom/2020/05/21/how-to-keep-track-of-traversed-path-in-dfs-tree-and-graph-traversal/)
 
 ```
 <?php
